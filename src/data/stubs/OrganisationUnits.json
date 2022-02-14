@@ -1,0 +1,640 @@
+{
+    "organisationUnits": [
+        {
+            "level": 1,
+            "name": "Kingdom of Spain",
+            "id": "DVnpk4xiXGJ",
+            "path": "/DVnpk4xiXGJ"
+        },
+        {
+            "level": 2,
+            "name": "Extremadura",
+            "id": "uo3srkbSp70",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp70",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Castilla y León",
+            "id": "uo3srkbSp67",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "La Rioja",
+            "id": "uo3srkbSp76",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp76",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Comunidad Foral de Navarra",
+            "id": "uo3srkbSp74",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp74",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Andalucía",
+            "id": "uo3srkbSp61",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Castilla-La Mancha",
+            "id": "uo3srkbSp68",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp68",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Cataluña/Catalunya",
+            "id": "uo3srkbSp69",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp69",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Comunidad de Madrid",
+            "id": "uo3srkbSp72",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp72",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Canarias",
+            "id": "uo3srkbSp65",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp65",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Cantabria",
+            "id": "uo3srkbSp66",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp66",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "País Vasco/Euskadi",
+            "id": "uo3srkbSp75",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp75",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Principado de Asturias",
+            "id": "uo3srkbSp63",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp63",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Ceuta y Melilla",
+            "id": "uo3srkbSp78",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp78",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Baleares",
+            "id": "uo3srkbSp64",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp64",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Región de Murcia",
+            "id": "uo3srkbSp73",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp73",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Comunitat Valenciana",
+            "id": "uo3srkbSp77",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp77",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Aragon",
+            "id": "uo3srkbSp62",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp62",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 2,
+            "name": "Galicia",
+            "id": "uo3srkbSp71",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp71",
+            "parent": {
+                "id": "DVnpk4xiXGJ"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Almería",
+            "id": "uo3srkbSpd4",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61/uo3srkbSpd4",
+            "parent": {
+                "id": "uo3srkbSp61"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Huelva",
+            "id": "uo3srkbSp21",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61/uo3srkbSp21",
+            "parent": {
+                "id": "uo3srkbSp61"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Toledo",
+            "id": "uo3srkbSp45",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp68/uo3srkbSp45",
+            "parent": {
+                "id": "uo3srkbSp68"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Ciudad Real",
+            "id": "uo3srkbSp13",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp68/uo3srkbSp13",
+            "parent": {
+                "id": "uo3srkbSp68"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Tarragona",
+            "id": "uo3srkbSp43",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp69/uo3srkbSp43",
+            "parent": {
+                "id": "uo3srkbSp69"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Cantabria",
+            "id": "uo3srkbSp39",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp66/uo3srkbSp39",
+            "parent": {
+                "id": "uo3srkbSp66"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Jaén",
+            "id": "uo3srkbSp23",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61/uo3srkbSp23",
+            "parent": {
+                "id": "uo3srkbSp61"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Albacete",
+            "id": "uo3srkbSpd2",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp68/uo3srkbSpd2",
+            "parent": {
+                "id": "uo3srkbSp68"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Soria",
+            "id": "uo3srkbSp42",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSp42",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Alicante",
+            "id": "uo3srkbSpd3",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp77/uo3srkbSpd3",
+            "parent": {
+                "id": "uo3srkbSp77"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Málaga",
+            "id": "uo3srkbSp29",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61/uo3srkbSp29",
+            "parent": {
+                "id": "uo3srkbSp61"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Madrid",
+            "id": "uo3srkbSp28",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp72/uo3srkbSp28",
+            "parent": {
+                "id": "uo3srkbSp72"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Ávila",
+            "id": "uo3srkbSpd5",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSpd5",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Pontevedra",
+            "id": "uo3srkbSp36",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp71/uo3srkbSp36",
+            "parent": {
+                "id": "uo3srkbSp71"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Baleares",
+            "id": "uo3srkbSpd7",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp64/uo3srkbSpd7",
+            "parent": {
+                "id": "uo3srkbSp64"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Granada",
+            "id": "uo3srkbSp18",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61/uo3srkbSp18",
+            "parent": {
+                "id": "uo3srkbSp61"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Huesca",
+            "id": "uo3srkbSp22",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp62/uo3srkbSp22",
+            "parent": {
+                "id": "uo3srkbSp62"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Cádiz",
+            "id": "uo3srkbSp11",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61/uo3srkbSp11",
+            "parent": {
+                "id": "uo3srkbSp61"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Guadalajara",
+            "id": "uo3srkbSp19",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp68/uo3srkbSp19",
+            "parent": {
+                "id": "uo3srkbSp68"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Valladolid",
+            "id": "uo3srkbSp47",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSp47",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Córdoba",
+            "id": "uo3srkbSp14",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61/uo3srkbSp14",
+            "parent": {
+                "id": "uo3srkbSp61"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Sevilla",
+            "id": "uo3srkbSp41",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp61/uo3srkbSp41",
+            "parent": {
+                "id": "uo3srkbSp61"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Navarra",
+            "id": "uo3srkbSp31",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp74/uo3srkbSp31",
+            "parent": {
+                "id": "uo3srkbSp74"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Álava",
+            "id": "uo3srkbSpd1",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp75/uo3srkbSpd1",
+            "parent": {
+                "id": "uo3srkbSp75"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Guipúzcoa",
+            "id": "uo3srkbSp20",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp75/uo3srkbSp20",
+            "parent": {
+                "id": "uo3srkbSp75"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Asturias",
+            "id": "uo3srkbSp33",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp63/uo3srkbSp33",
+            "parent": {
+                "id": "uo3srkbSp63"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Cáceres",
+            "id": "uo3srkbSp10",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp70/uo3srkbSp10",
+            "parent": {
+                "id": "uo3srkbSp70"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Badajoz",
+            "id": "uo3srkbSpd6",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp70/uo3srkbSpd6",
+            "parent": {
+                "id": "uo3srkbSp70"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Ceuta",
+            "id": "uo3srkbSp51",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp78/uo3srkbSp51",
+            "parent": {
+                "id": "uo3srkbSp78"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Palencia",
+            "id": "uo3srkbSp34",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSp34",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Castellón",
+            "id": "uo3srkbSp12",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp77/uo3srkbSp12",
+            "parent": {
+                "id": "uo3srkbSp77"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Burgos",
+            "id": "uo3srkbSpd9",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSpd9",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Teruel",
+            "id": "uo3srkbSp44",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp62/uo3srkbSp44",
+            "parent": {
+                "id": "uo3srkbSp62"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Lleida",
+            "id": "uo3srkbSp25",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp69/uo3srkbSp25",
+            "parent": {
+                "id": "uo3srkbSp69"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Las Palmas",
+            "id": "eKlyyCxSFXo",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp65/eKlyyCxSFXo",
+            "parent": {
+                "id": "uo3srkbSp65"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Barcelona",
+            "id": "uo3srkbSpd8",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp69/uo3srkbSpd8",
+            "parent": {
+                "id": "uo3srkbSp69"
+            }
+        },
+        {
+            "level": 3,
+            "name": "León",
+            "id": "uo3srkbSp24",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSp24",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Salamanca",
+            "id": "uo3srkbSp37",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSp37",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Murcia",
+            "id": "uo3srkbSp30",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp73/uo3srkbSp30",
+            "parent": {
+                "id": "uo3srkbSp73"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Melilla",
+            "id": "uo3srkbSp52",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp78/uo3srkbSp52",
+            "parent": {
+                "id": "uo3srkbSp78"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Lugo",
+            "id": "uo3srkbSp27",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp71/uo3srkbSp27",
+            "parent": {
+                "id": "uo3srkbSp71"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Ourense",
+            "id": "uo3srkbSp32",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp71/uo3srkbSp32",
+            "parent": {
+                "id": "uo3srkbSp71"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Segovia",
+            "id": "uo3srkbSp40",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSp40",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Girona",
+            "id": "uo3srkbSp17",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp69/uo3srkbSp17",
+            "parent": {
+                "id": "uo3srkbSp69"
+            }
+        },
+        {
+            "level": 3,
+            "name": "A Coruña",
+            "id": "uo3srkbSp15",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp71/uo3srkbSp15",
+            "parent": {
+                "id": "uo3srkbSp71"
+            }
+        },
+        {
+            "level": 3,
+            "name": "La Rioja",
+            "id": "uo3srkbSp26",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp76/uo3srkbSp26",
+            "parent": {
+                "id": "uo3srkbSp76"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Vizcaya",
+            "id": "uo3srkbSp48",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp75/uo3srkbSp48",
+            "parent": {
+                "id": "uo3srkbSp75"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Zamora",
+            "id": "uo3srkbSp49",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp67/uo3srkbSp49",
+            "parent": {
+                "id": "uo3srkbSp67"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Valencia",
+            "id": "uo3srkbSp46",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp77/uo3srkbSp46",
+            "parent": {
+                "id": "uo3srkbSp77"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Santa Cruz de Tenerife",
+            "id": "pChJUgQ2r1n",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp65/pChJUgQ2r1n",
+            "parent": {
+                "id": "uo3srkbSp65"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Cuenca",
+            "id": "uo3srkbSp16",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp68/uo3srkbSp16",
+            "parent": {
+                "id": "uo3srkbSp68"
+            }
+        },
+        {
+            "level": 3,
+            "name": "Zaragoza",
+            "id": "uo3srkbSp50",
+            "path": "/DVnpk4xiXGJ/uo3srkbSp62/uo3srkbSp50",
+            "parent": {
+                "id": "uo3srkbSp62"
+            }
+        }
+    ]
+}
