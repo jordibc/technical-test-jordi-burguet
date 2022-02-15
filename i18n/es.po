@@ -14,6 +14,9 @@ msgstr "Añadir"
 msgid "List"
 msgstr "Lista"
 
+msgid "Counter"
+msgstr "Contador"
+
 msgid "Back"
 msgstr "Volver"
 

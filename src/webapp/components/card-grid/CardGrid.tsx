@@ -3,7 +3,9 @@ import styled from "styled-components";
 import { PageHeader } from "../page-header/PageHeader";
 import { MenuCard, MenuCardProps } from "./MenuCard";
 
-export const CardGrid: React.FC<CardGridProps> = ({ title, cards, onBackClick }) => {
+export const CardGrid: React.FC<CardGridProps> = props => {
+    const { title, cards, onBackClick } = props;
+
     return (
         <React.Fragment>
             {!!title && <PageHeader title={title} onBackClick={onBackClick} />}

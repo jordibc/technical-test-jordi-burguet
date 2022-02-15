@@ -8,11 +8,17 @@ import {
 } from "@material-ui/core";
 import AddIcon from "@material-ui/icons/Add";
 import ViewListIcon from "@material-ui/icons/ViewList";
-import React from "react";
+import ConfirmationNumberIcon from "@material-ui/icons/ConfirmationNumber";
+import React, { useState } from "react";
 import styled from "styled-components";
 import i18n from "../../../locales";
+import { CardDialog } from "./CardDialog";
 
-export const MenuCard: React.FC<MenuCardProps> = ({ name, description, addAction, listAction = () => {} }) => {
+export const MenuCard: React.FC<MenuCardProps> = props => {
+    const { name, description, addAction, listAction } = props;
+
+    const [countDialogOpen, setCountDialogOpen] = useState(false);
+
     return (
         <Card>
             <Header onClick={listAction} title={name} />
@@ -35,7 +41,15 @@ export const MenuCard: React.FC<MenuCardProps> = ({ name, description, addAction
                         </IconButton>
                     </Tooltip>
                 )}
+
+                <Tooltip title={i18n.t("Counter")} placement="top">
+                    <IconButton key="counter" onClick={() => setCountDialogOpen(true)}>
+                        <ConfirmationNumberIcon />
+                    </IconButton>
+                </Tooltip>
             </Actions>
+
+            <CardDialog isOpen={countDialogOpen} name={name} onOk={() => setCountDialogOpen(false)} />
         </Card>
     );
 };

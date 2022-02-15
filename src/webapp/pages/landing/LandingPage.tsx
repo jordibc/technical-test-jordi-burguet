@@ -13,12 +13,12 @@ export const LandingPage: React.FC = () => {
                 {
                     name: "John",
                     description: "Entry point 1",
-                    listAction: () => history.push("/for/John"),
+                    listAction: () => history.push("/counter/John"),
                 },
                 {
                     name: "Mary",
                     description: "Entry point 2",
-                    listAction: () => history.push("/for/Mary"),
+                    listAction: () => history.push("/counter/Mary"),
                 },
             ],
         },
