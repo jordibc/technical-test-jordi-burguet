@@ -1,4 +1,6 @@
 import React from "react";
+import { Box, Grid, Button as MUIButton } from "@material-ui/core";
+import styled from "styled-components";
 import { useHistory } from "react-router-dom";
 import { Card, CardGrid } from "../../components/card-grid/CardGrid";
 
@@ -24,5 +26,25 @@ export const LandingPage: React.FC = () => {
         },
     ];
 
-    return <CardGrid cards={cards} />;
+    return (
+        <Box>
+            <Grid container spacing={2}>
+                <Grid item xs={2}>
+                    <Button variant="contained" href="#/organisations">
+                        Organisations
+                    </Button>
+                </Grid>
+                <Grid item xs={10}>
+                    <CardGrid cards={cards} />
+                </Grid>
+            </Grid>
+        </Box>
+    );
 };
+
+const Button = styled(MUIButton)`
+    left: 1rem;
+    top: 1rem;
+    padding: 1rem;
+    height: auto;
+`;

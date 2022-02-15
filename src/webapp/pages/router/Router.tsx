@@ -1,6 +1,7 @@
 import { HashRouter, Route, Switch } from "react-router-dom";
 import { Example } from "../example/Example";
 import { Counter } from "../counter/Counter";
+import { OrgUnitsSelector } from "../organisations/Organisations";
 import { LandingPage } from "../landing/LandingPage";
 
 const Root = () => {
@@ -14,6 +15,7 @@ const Root = () => {
                     path="/counter/:name?"
                     render={({ match }) => <Counter title={name(match)} name={name(match)} />}
                 />
+                <Route path="/organisations/" render={() => <OrgUnitsSelector />} />
 
                 {/* Default route */}
                 <Route render={() => <LandingPage />} />
